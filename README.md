@@ -24,5 +24,3 @@ docker build -t receipt-processor .
 # Run the Docker container
 docker run -p 8080:8080 receipt-processor
 ```
- 
-Now your API is accessible at **http://localhost:8080**.
